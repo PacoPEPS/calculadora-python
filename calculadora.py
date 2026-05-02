@@ -1,7 +1,7 @@
 import sys
 
 def multiplicar(a, b):
-    return a * b + "error"
+    return a * b
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
